@@ -16,8 +16,6 @@ import java.util.Date;
 
 public class UserListAdapter extends BaseAdapter {
     Context ctx; ArrayList<User> users;
-    // TODO: реализовать сортировку по каждому из полей
-    // класса: sex, name, phoneNumber
 
     public UserListAdapter(Context ctx, ArrayList<User> users) {
         this.ctx = ctx;
@@ -61,7 +59,7 @@ public class UserListAdapter extends BaseAdapter {
 
         // задаём содержание
         tvName.setText(u.name);
-        tvPhone.setText(u.phoneNumber);
+        tvPhone.setText(u.phone);
         switch (u.sex) {
             case MAN: ivUserpic.setImageResource(R.drawable.user_man); break;
             case WOMAN: ivUserpic.setImageResource(R.drawable.user_woman); break;
@@ -72,3 +70,4 @@ public class UserListAdapter extends BaseAdapter {
         return convertView;
     }
 }
+// загрузить свой json

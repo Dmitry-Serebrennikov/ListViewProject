@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AlexSh",
+    "phone": "404-404-404",
+    "sex": "MAN"
+  },
+  {
+    "name": "Kate",
+    "phone": "89123123123",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Alexander Klimov",
+    "phone": "124-923-217",
+    "sex": "MAN"
+  },
+  {
+    "name": "Alien from UFA",
+    "phone": "997-779",
+    "sex": "UNKNOWN"
+  },
+  {
+    "name": "Donald Knuth",
+    "phone": "255-255-255",
+    "sex": "MAN"
+  },
+  {
+    "name": "Groot",
+    "phone": "543-846",
+    "sex": "UNKNOWN"
+  },
+  {
+    "name": "Petr Dlinin",
+    "phone": "8924776655",
+    "sex": "MAN"
+  },
+  {
+    "name": "Bukov robot-2000",
+    "phone": "77-77-77",
+    "sex": "UNKNOWN"
+  },
+  {
+    "name": "Count Vlad Tse",
+    "phone": "987-654",
+    "sex": "MAN"
+  },
+  {
+    "name": "Alisa Yan",
+    "phone": "342-976",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Yakov Perelman",
+    "phone": "23-58-13",
+    "sex": "MAN"
+  },
+  {
+    "name": "IVAN IV LABS",
+    "phone": "987-653",
+    "sex" : "MAN"
+  }
+]
